@@ -4,9 +4,7 @@ In this document, I will show you:
 Download software HSQLDB (~ 8MB)
 Create example database myDb
 Configuring and running HSQLDB.
-
 Download HSQLDB Mar116-19usd-sitewide300X250
-
 http://hsqldb.org/
 
 http://sourceforge.net/projects/hsqldb/files/
